@@ -4,7 +4,7 @@ Our project "Climate Change"
 
 Project's link:
 
-https://drive.google.com/file/d/1SGbwX1XFCPpeRy-E7oCR7i5kBXC2jyWu/view?usp=sharing
+https://drive.google.com/drive/folders/1HsSmuaQivNz1ZA9R_tRvAYk46W3lheDh?usp=sharing
 
 
 # [Climate Change]
