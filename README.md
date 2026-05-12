@@ -24,7 +24,7 @@ By uncovering the driving forces behind global warming, this project encourages 
 
 ---
 ##  Instructor
-**[Jon Yousaf]**
+**[John Yousaf]**
 ---
 ##  Project Overview
 
