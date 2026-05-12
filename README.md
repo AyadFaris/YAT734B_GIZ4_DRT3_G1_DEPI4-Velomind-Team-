@@ -16,11 +16,12 @@ This motion graphics project aims to decode the root causes of climate change, f
 By uncovering the driving forces behind global warming, this project encourages awareness, responsibility, and informed action toward a more sustainable future.
 ---
 ##  Team Members
-- **[Aiad Faris Aiad ]**  
 - **[Engy Assem Mahmoud]**  
 - **[Haidi Mohamed Elewa]**  
 - **[Sara Abelrahman Hosny]**  
 - **[Romany Haroun Mousa]**
+- **[Aiad Faris Aiad ]**  
+
 ---
 ##  Instructor
 **[Jon Yousaf]**
